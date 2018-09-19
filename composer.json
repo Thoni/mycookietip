@@ -1,7 +1,7 @@
 {
-    "name": "Thoni/dca_editor",
+    "name": "thoni/mycookietip",
     "type": "contao-bundle",
-    "description": "Change your DCA.",
+    "description": "Hinweis auf die Verwendung von Cookies.",
     "license": "LGPL-3.0-or-later",
     "authors": {
         "name": "Frank Thonak",
@@ -15,14 +15,8 @@
     },
     "autoload": {
 		  "psr-4": {
-			  "dca_editor\\": "src/"
-		},
-	  "extra": {
-		  "contao": {
-			  "sources": {
-				  "system/modules/": "system/modules/zzz_dca"
-			  }
-		  }
+			  "mycookietip\\": "src/"
+		}
     }
   }
 }
