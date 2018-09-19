@@ -24,7 +24,7 @@
  * @copyright  Frank Thonak www.thomkit.de
  * @author     Frank Thonak
  * @package    mycookietip
- * @license    GPL
+ * @license    LGPL
  * @filesource
  */
 
