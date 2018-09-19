@@ -1,4 +1,4 @@
-# mycokietip
+# mycookietip
 Hinweis auf die Verwendung von Cookies
 
 Diese Erweiterung blendet einen Hinweis ein, den man ausblenden kann.
