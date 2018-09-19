@@ -1,0 +1,28 @@
+{
+    "name": "Thoni/dca_editor",
+    "type": "contao-bundle",
+    "description": "Change your DCA.",
+    "license": "LGPL-3.0-or-later",
+    "authors": {
+        "name": "Frank Thonak",
+        "email": "info@thomkit.de",
+        "homepage": "http://thomkit.de",
+        "role": "Developer"
+    },
+    "require": {
+        "php": "^7.1",
+        "contao/core-bundle": "^4.4"
+    },
+    "autoload": {
+		  "psr-4": {
+			  "dca_editor\\": "src/"
+		},
+	  "extra": {
+		  "contao": {
+			  "sources": {
+				  "system/modules/": "system/modules/zzz_dca"
+			  }
+		  }
+    }
+  }
+}
