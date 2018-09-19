@@ -3,12 +3,14 @@
     "type": "contao-bundle",
     "description": "Hinweis auf die Verwendung von Cookies.",
     "license": "LGPL-3.0-or-later",
-    "authors": {
+    "authors": [
+	    {
         "name": "Frank Thonak",
         "email": "info@thomkit.de",
         "homepage": "http://thomkit.de",
         "role": "Developer"
-    },
+    	    }
+    ],
     "require": {
         "php": "^7.1",
         "contao/core-bundle": "^4.4"
@@ -18,5 +20,4 @@
 			  "mycookietip\\": "src/"
 		}
     }
-  }
 }
