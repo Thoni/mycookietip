@@ -1,7 +1,6 @@
 {
     "name": "thoni/mycookietip",
     "type": "contao-module",
-    "stability": "beta",
     "description": "Hinweis auf die Verwendung von Cookies.",
     "license": "LGPL-3.0-or-later",
     "authors": [
