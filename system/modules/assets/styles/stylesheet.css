@@ -1,0 +1,5 @@
+html {padding-top:0px;}
+body {margin-top:0px;}
+#mycookietip { width:100%;background-color:#eeeeee;position:relative;padding:10px 0px 20px 0px;font-size:14px;box-shadow: 0px 0px 5px 5px #888;}
+#mycookietip h1 {font-size:16px;font-weight:bold;}
+#mycookietip .inside {margin: 0px auto; width:1000px; max-width:80%;}
