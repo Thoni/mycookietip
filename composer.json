@@ -23,7 +23,7 @@
     "extra": {
 	  "contao": {
 		  "sources": {
-			  "src/": "system/modules/mycookietip"
+			  "system/modules/mycookietip/": "system/modules/mycookietip"
 		  }
 	  }
 }
