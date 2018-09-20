@@ -20,6 +20,13 @@
 		  "psr-4": {
 			  "thoni\\mycookietip\\": "src"
 		}
-    }
+    },
+    "extra": {
+	  "contao": {
+		  "sources": {
+			  "src/": "system/modules/mycookietip"
+		  }
+	  }
+}
 }
 
